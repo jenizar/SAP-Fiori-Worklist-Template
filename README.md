@@ -36,6 +36,8 @@ Note:
 
 - It automatically open your browser and add /webapp in the end of url. e.g. https://jenizar-sapui5-worklist.herokuapp.com/webapp
 
+- It utilize nodejs buildpack
+
 # Cadaxo SAP Fiori Worklist Template
 
 This is an SAP Fiori Example app which follows [SAPUI5 Developer Guidlines Worklist Template standarts (https://sapui5.netweaver.ondemand.com/#docs/guide/a77f2d29299247f8a3e30226507b1765.html)
