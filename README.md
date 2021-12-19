@@ -4,7 +4,7 @@ The tutorial assumes that you have a free Heroku account (Heroku CLI installed),
 
 To run this yourself, do the following steps:
 
-1. Clone this repo with `git clone https://github.com/DusanSacha/SAP-Fiori-Worklist-Template`
+1. Clone this repo with `git clone https://github.com/jenizar/SAP-Fiori-Worklist-Template`
 
 2. Setup the dependencies with `npm install` (make sure you are in `SAP-Fiori-Worklist-Template` directory)
 
