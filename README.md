@@ -50,6 +50,15 @@ https://jenizar-sapui5-worklist.herokuapp.com/webapp
 
 ![alt text](https://github.com/jenizar/SAP-Fiori-Worklist-Template/blob/master/Screenshot/Screenshot%20from%202021-12-19%2016-19-27.png)
 
+References:
+
+1. https://github.com/jenizar/heroku-sapui5-mockd-internal
+
+2. https://github.com/jenizar/sap-ui5-walkthrough
+
+3. https://github.com/jenizar/heroku-sapui5-covid19-tracker
+
+
 # Cadaxo SAP Fiori Worklist Template
 
 This is an SAP Fiori Example app which follows [SAPUI5 Developer Guidlines Worklist Template standarts (https://sapui5.netweaver.ondemand.com/#docs/guide/a77f2d29299247f8a3e30226507b1765.html)
