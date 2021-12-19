@@ -1,8 +1,4 @@
-# Cadaxo SAP Fiori Worklist Template
-
-This is an SAP Fiori Example app which follows [SAPUI5 Developer Guidlines Worklist Template standarts (https://sapui5.netweaver.ondemand.com/#docs/guide/a77f2d29299247f8a3e30226507b1765.html)
-
-(Today - 10th of Nov 2016 - still some parts are missing to meet the Worklist Template standarts - I am still working on it :)
+The tutorial assumes that you have a free Heroku account (Heroku CLI installed), git installed, and that you have Node.js and npm installed locally.
 
 # Run localy
 
@@ -39,7 +35,12 @@ Note:
 - jenizar-sapui5-walkthrough is name your apps in the url, example: https://jenizar-sapui5-worklist.herokuapp.com
 
 - It automatically open your browser and add /webapp in the end of url. e.g. https://jenizar-sapui5-worklist.herokuapp.com/webapp
-- 
+
+# Cadaxo SAP Fiori Worklist Template
+
+This is an SAP Fiori Example app which follows [SAPUI5 Developer Guidlines Worklist Template standarts (https://sapui5.netweaver.ondemand.com/#docs/guide/a77f2d29299247f8a3e30226507b1765.html)
+
+(Today - 10th of Nov 2016 - still some parts are missing to meet the Worklist Template standarts - I am still working on it :)
 
 # Autor
 Dusan Sacha, dusan.sacha@cadaxo.com
