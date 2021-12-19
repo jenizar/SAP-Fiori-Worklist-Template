@@ -38,6 +38,10 @@ Note:
 
 - It utilize nodejs buildpack
 
+![alt text](https://github.com/jenizar/SAP-Fiori-Worklist-Template/blob/master/Screenshot/Screenshot%20from%202021-12-19%2016-19-23.png)
+
+![alt text](https://github.com/jenizar/SAP-Fiori-Worklist-Template/blob/master/Screenshot/Screenshot%20from%202021-12-19%2016-19-27.png)
+
 # Cadaxo SAP Fiori Worklist Template
 
 This is an SAP Fiori Example app which follows [SAPUI5 Developer Guidlines Worklist Template standarts (https://sapui5.netweaver.ondemand.com/#docs/guide/a77f2d29299247f8a3e30226507b1765.html)
