@@ -44,7 +44,7 @@ This is an SAP Fiori Example app which follows [SAPUI5 Developer Guidlines Workl
 
 (Today - 10th of Nov 2016 - still some parts are missing to meet the Worklist Template standarts - I am still working on it :)
 
-# Autor
+# Author
 Dusan Sacha, dusan.sacha@cadaxo.com
 
 Cadaxo, www.cadaxo.com
