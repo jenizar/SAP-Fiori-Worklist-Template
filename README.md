@@ -16,9 +16,30 @@ To run this yourself, do the following steps:
 
 4. Open http://localhost:5000/webapp/ in yoiur favorite browser.
 
-# Live
+# Deploy to Heroku cloud
 
-https://openui5-worklist-template.herokuapp.com/webapp/
+$ heroku login
+
+$ heroku create jenizar-sapui5-worklist
+
+$ git push heroku main
+
+$ heroku open
+
+--> if problem use:
+
+$ git remote rm heroku
+
+$ heroku create jenizar-sapui5-worklist
+
+$ git push heroku HEAD:master
+
+Note:
+
+- jenizar-sapui5-walkthrough is name your apps in the url, example: https://jenizar-sapui5-worklist.herokuapp.com
+
+- It automatically open your browser and add /webapp in the end of url. e.g. https://jenizar-sapui5-worklist.herokuapp.com/webapp
+- 
 
 # Autor
 Dusan Sacha, dusan.sacha@cadaxo.com
