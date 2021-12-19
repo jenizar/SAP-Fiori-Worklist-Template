@@ -34,9 +34,13 @@ Note:
 
 - jenizar-sapui5-walkthrough is name your apps in the url, example: https://jenizar-sapui5-worklist.herokuapp.com
 
-- It automatically open your browser and add /webapp in the end of url. e.g. https://jenizar-sapui5-worklist.herokuapp.com/webapp
+- It automatically open your browser and add /webapp in the end of url.
 
 - It utilize nodejs buildpack
+
+# Live
+https://jenizar-sapui5-worklist.herokuapp.com/webapp
+
 
 ![alt text](https://github.com/jenizar/SAP-Fiori-Worklist-Template/blob/master/Screenshot/Screenshot%20from%202021-12-19%2016-19-23.png)
 
